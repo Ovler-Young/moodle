@@ -1,9 +1,9 @@
-name = 'template'
+name = 'moodle_proxy'
 type = 'javascript'
-account_id = ''
+account_id = '865c1a927a7e04c007ae96a7a1b66414'
 usage_model = ''
 workers_dev = true
-compatibility_date = "2022-02-16"
+compatibility_date = "2022-06-03"
 
 [build]
 command = "npm install && npm run build"
