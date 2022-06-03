@@ -8,8 +8,8 @@ const handleRequest = async (
   reflare.push({
     path: '/*',
     upstream: {
-      domain: 'httpbin.org',
-      protocol: 'https',
+      domain: 'isemoodle.buct.edu.cn',
+      protocol: 'http',
     },
   });
 
