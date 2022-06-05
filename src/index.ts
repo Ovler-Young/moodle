@@ -8,7 +8,7 @@ const handleRequest = async (
   reflare.push({
     path: '/*',
     upstream: {
-      domain: 'isemoodle.buct.edu.cn',
+      domain: 'bog.ac',
       protocol: 'http',
     },
   });
