@@ -1,4 +1,4 @@
-name = 'moodle_proxy'
+name = 'bog'
 type = 'javascript'
 account_id = '865c1a927a7e04c007ae96a7a1b66414'
 usage_model = ''
